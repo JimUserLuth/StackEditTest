@@ -1,13 +1,13 @@
 This is a test repo for StackEdit
-This sentence was added in StackEdit (and later edited in github).
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJqWGFoWlZFa08xQkNHWDB6Ijp7In
-N0YXJ0IjozNCwiZW5kIjo3MSwidGV4dCI6IlRoaXMgc2VudGVu
-Y2Ugd2FzIGFkZGVkIGluIFN0YWNrRWRpdC4ifX0sImNvbW1lbn
+RleHQiOiJUaGlzIHNlbnRlbmNlIHdhcyBhZGRlZCBpbiBTdGFj
+a0VkaXQuIiwic3RhcnQiOjM0LCJlbmQiOjM0fX0sImNvbW1lbn
 RzIjp7InlVNHFSN2c3QTNCVDVMbloiOnsiZGlzY3Vzc2lvbklk
 IjoialhhaFpWRWtPMUJDR1gweiIsInN1YiI6ImdoOjY1Mzg2MD
 MiLCJ0ZXh0IjoiSGVyZSBpcyBhIGNvbW1lbnQgb24gdGhlIGFk
 ZGVkIHNlbnRlbmNlIiwiY3JlYXRlZCI6MTc3ODI1NjUzODE3M3
-19LCJoaXN0b3J5IjpbLTkxMTg0OTgxNCwtMTAyNzY4MTY2M119
-
+19LCJoaXN0b3J5IjpbMTgxMzYzODQ2MiwtOTExODQ5ODE0LC0x
+MDI3NjgxNjYzXX0=
 -->
