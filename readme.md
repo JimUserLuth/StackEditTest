@@ -1,5 +1,5 @@
 This is a test repo for StackEdit
-This sentence was added in StackEdit.
+This sentence was added in StackEdit (and later edited in github).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJqWGFoWlZFa08xQkNHWDB6Ijp7In
 N0YXJ0IjozNCwiZW5kIjo3MSwidGV4dCI6IlRoaXMgc2VudGVu
